@@ -32,3 +32,11 @@ body{
     font-weight: normal;
     
 }
+
+#footer{
+    text-align: center;
+    height: 30px;
+    background-color: blue;
+    color: white;
+    text-shadow: 2px 2px 2px black;
+}
